@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+h2{
+    font-family: 'Righteous', cursive;
+}
+ul{
+    font-family: 'Pacifico', cursive;
+}
+body{
+    color: white;
+}
+body{
+    background-color:pink;
+}
+body{
+    background-image:url(https://www.pinterest.com/pin/513762269969538217/);
+}
+h1{
+    color:purple;
+}
+
